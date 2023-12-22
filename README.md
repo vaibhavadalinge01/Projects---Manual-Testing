@@ -1,2 +1,2 @@
-# Projects---Manual-Testing
+cd # Projects---Manual-Testing
 Manual testing projects.
