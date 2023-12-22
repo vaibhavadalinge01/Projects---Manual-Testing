@@ -1,2 +1,2 @@
 # Projects---Manual-Testing
-Manual testing project.
+Manual testing projects.
